@@ -16,6 +16,8 @@ The theoretical tables for H(z) are named with a code:
 - ++(--) means 20% more(less) than the value given by moffat
 - --- means 40% less than the value given by moffat
 
+This tables are obtained running the file 'H(z)_the.nb'
+
 ## Observational data
 We will use three sets of observational data
 
